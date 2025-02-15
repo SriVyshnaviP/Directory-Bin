@@ -1,0 +1,2 @@
+# Directory-Bin
+First directory
